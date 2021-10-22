@@ -1,0 +1,14 @@
+/*      Inputs      */
+.search-bar {
+  border-radius: 5px;
+  padding: 15px;
+  width: 40%;
+  margin: auto;
+  display: block;
+}
+
+.search-bar:focus {
+  width: 70%;
+}
+
+/*# sourceMappingURL=inputs.css.map */
