@@ -21,6 +21,7 @@ header {
   column-gap: 15px;
   row-gap: 25px;
   width: 90%;
+  max-width: 1024px;
   margin: auto;
   display: flex;
   flex-wrap: wrap;
